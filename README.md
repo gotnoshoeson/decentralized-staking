@@ -6,8 +6,8 @@ You can find the challenge at [scaffold-eth/challenges](https://github.com/scaff
 
 # The smart contract is deployed on Rinkeby
 
-[See the contract on Etherscan](https://www.notion.so/Challenge-1-Decentralized-Staking-3d6f53d08fc44ae38a2c123b72ec0f24)
+[See the contract on Etherscan](https://rinkeby.etherscan.io/address/0x0F499c7C725333959bD4a9265907209B93a51222)
 
 # The app was deployed using Surge
 
-[Check out the app](https://www.notion.so/Challenge-1-Decentralized-Staking-3d6f53d08fc44ae38a2c123b72ec0f24)
+[Check out the app](https://croquis0001e.surge.sh)
